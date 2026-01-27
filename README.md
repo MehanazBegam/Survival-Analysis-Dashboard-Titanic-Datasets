@@ -5,13 +5,13 @@ This project presents an interactive Survival Analysis Dashboard built using the
 -Analyze the overall survival rate of passengers -Identify key factors influencing survival -Compare survival outcomes across passenger classes -Study demographic trends such as age and gender -Evaluate the impact of fare and embarkation point on survival -Present insights through a clear and interactive dashboard
 
 ## Dataset used
--<a href="https://github.com/MehanazBegam/Survival-Analysis-Dashboard-Titanic-Datasets/blob/main/Titanic-Dataset.csv"</a>Dataset</n>
+-<a href="https://github.com/MehanazBegam/Survival-Analysis-Dashboard-Titanic-Datasets/blob/main/Titanic-Dataset.csv"Dataset</a></n>
 
 # Questions (KPIs)
 -What is the overall survival percentage? -How many total passengers were onboard? -How does survival vary by gender? -Which passenger class had the highest survival rate? -What is the average age by passenger class? -How does fare correlate with survival? -Which embarkation point had the most passengers? -What is the survival ratio between survived and non-survived passengers? -How does survival change across different age groups?
 
 # Dashboard Interaction
-[View Dashboard]
+[View Dashboard](https://github.com/MehanazBegam/Survival-Analysis-Dashboard-Titanic-Datasets/blob/main/Survival%20Analytics%20Dashboard.png)
 
 # Key Performance Indicators (KPIs)
 -Survival Percentage: 38% -Total Passengers: 891 -Number of Embarkation Points: 4 -Survival Ratio: Survived vs Not Survived -Average Survival Rate by Passenger Class -Average Fare by Passenger Class
