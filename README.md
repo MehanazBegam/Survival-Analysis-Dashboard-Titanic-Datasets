@@ -1,5 +1,5 @@
 # Survival-Analysis-Dashboard-Titanic-Dataset
-This project presents an interactive Survival Analysis Dashboard built using the Titanic dataset to explore the factors that influenced passenger survival during the disaster. The goal of the project is to transform raw data into meaningful insights through clear KPIs and visually intuitive charts.
+• This Titanic dashboard shows passenger information such as class, gender, age, fare, and port of embarkation. It compares survival rates by gender and class, showing that women and first-class passengers had higher survival rates, while third-class passengers had lower survival.The charts also show average age, fare differences, and the overall number of people who survived and did not survive.  
 
 ## Project Objectives
 -Analyze the overall survival rate of passengers -Identify key factors influencing survival -Compare survival outcomes across passenger classes -Study demographic trends such as age and gender -Evaluate the impact of fare and embarkation point on survival -Present insights through a clear and interactive dashboard
